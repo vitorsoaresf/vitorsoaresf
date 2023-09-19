@@ -1,7 +1,13 @@
 ### Olá eu sou o Vitor Soares Ferreira 👋
 
-- 🔭 Atualmente trabalho temporariamente como peer-coach na Kenzie Academy Brazil, paralelamente a essa ocupação , desenvolvo meus estudos nos módulos finais na mesma instituição, finalizando essa especialização em julho de 2022. Possuo formação em Front-End (HTML, CSS, Javascript, Typescript, ReactJS) e estou finalizando o módulo de Back-End (Python, Flask, MongoDB, PostegreSQL, SQL, NoSQL, Django, NodeJS).
-- 🌱 Back-End - PostegreSQL
+- 🔭 Atualmente trabalho no BTG Pactual como Front End Developer, realizando as seguintes atividades:
+    1. Desenvolvimento de novas features
+    2. Manuntenção de código legado
+    3. Refatoração de código legado
+    4. Review de código de outros desenvolvedores de acordo com as melhores práticas do Clean Code
+    5. Monitoração da aplicação em produção via Datadog
+    6. Mentoria com estagiários que ingressam temporariamente na empresa para que desenvolvam suas soft skills e hard skills
+    7. Atendimento e suporte a chamados dos usuários da plataforma
 
 <div align="center">
   <a href="https://github.com/vitorsoaresf">
