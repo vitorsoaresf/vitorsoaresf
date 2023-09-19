@@ -1,6 +1,6 @@
 ### Olá eu sou o Vitor Soares Ferreira 👋
 
-Atualmente trabalho no BTG Pactual como Front End Developer, realizando as seguintes atividades:
+- Atualmente trabalho no BTG Pactual como Front End Developer, realizando as seguintes atividades:<br>
     1. Desenvolvimento de novas features
     2. Manuntenção de código legado
     3. Refatoração de código legado
